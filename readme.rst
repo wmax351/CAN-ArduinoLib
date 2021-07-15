@@ -4,6 +4,8 @@ MakerPlane Arduino CAN Library
 
 This is a CAN Library for interfacing the Arduino to an MCP2515 CAN Controller.
 
+This is an experimental system, and is not suited for primary or backup flight/engine instrumentation or navigation. Use at your own risk.
+
 It was specifically written for the MakerPlane Avionics family of devices.  It
 is the base CAN library used for the CAN-FIX protocol libraries.  CAN-FIX is
 the primary means of communication between MakerPlane avionics devices.
